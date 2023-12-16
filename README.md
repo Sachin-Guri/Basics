@@ -1,2 +1,2 @@
 # Basics
-This includes basics of HTML | CSS | JS
+Basics of HTML | CSS | JS
